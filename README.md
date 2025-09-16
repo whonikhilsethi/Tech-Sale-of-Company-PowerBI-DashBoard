@@ -38,6 +38,6 @@ The main objective of this project is to:
 /PowerBI-Sales-Dashboard
 │
 ├── SalesDashboard.pbix      # Power BI project file
-├── sales_data.csv           # Sample sales data file
+├── sales_data.xlsx           # Sample sales data file
 ├── README.md                # This file
 └── Dashboard Screenshot.png # Preview image of the dashboard
