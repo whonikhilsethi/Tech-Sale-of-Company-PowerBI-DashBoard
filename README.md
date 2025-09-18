@@ -1,5 +1,8 @@
 # Tech Sales Dashboard (2020-2022) - Power BI Project
 
+<img width="1287" height="660" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/350fe64f-fe59-4555-9e3b-c368dd1402d2" />
+
+
 ## 📊 Project Overview
 This project is a **Sales Dashboard** created using **Microsoft Power BI**, designed to visualize and analyze sales data from the years **2020 to 2022**. It provides interactive visual insights into key business metrics such as total sales, total cost, total quantity, total transactions, and total profit. The dashboard helps in understanding sales performance by category, brand, and supervisor.
 
@@ -42,6 +45,4 @@ The main objective of this project is to:
 ├── README.md                # This file
 └── Dashboard Screenshot.png # Preview image of the dashboard
 
-
-<img width="1287" height="660" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/1d399668-8672-4ac4-9d0d-605847d9b1c7" />
 
