@@ -41,3 +41,7 @@ The main objective of this project is to:
 ├── sales_data.xlsx           # Sample sales data file
 ├── README.md                # This file
 └── Dashboard Screenshot.png # Preview image of the dashboard
+
+
+<img width="1287" height="660" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/1d399668-8672-4ac4-9d0d-605847d9b1c7" />
+
